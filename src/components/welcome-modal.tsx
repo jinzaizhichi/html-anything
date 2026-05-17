@@ -243,7 +243,7 @@ export function WelcomeModal({ onClose }: Props) {
             ★ GitHub
           </a>
           <a
-            href="https://discord.com/invite/qhbcCH8Am4"
+            href="https://discord.gg/keeVPMrueT"
             target="_blank"
             rel="noreferrer noopener"
             className="rounded-full px-3 py-1 border transition-colors hover:text-[var(--ink)] hover:border-[var(--ink)]/30"

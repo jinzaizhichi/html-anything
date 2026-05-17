@@ -120,7 +120,7 @@ function CommunityLinks() {
         </svg>
       </a>
       <a
-        href="https://discord.com/invite/qhbcCH8Am4"
+        href="https://discord.gg/keeVPMrueT"
         target="_blank"
         rel="noreferrer noopener"
         className={linkCls}
